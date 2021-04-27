@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+  <meta charset="utf-8">
+  <meta property="og:image" content="https://ofikoweb.cz/img/logo_sdileni.png">
+  <!-- Vložit oficiální web a logo, které by se mělo zobrazovat-->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="title" content="Oáza Alterna - Nabízíme různé druhy terapií a kosmetické ošetření pleti">
+  <meta name="description"
+    content="Staňte se svám vlastním terapeutem, nabízíme školení toho, jak pracovat sám se sebou, dále nabízíme kosmetické služby, akupunkturu, regresní terapie v okolí Ostravy.">
+  <meta name="keywords"
+    content="regresni terapie,terapeutem sám sobě,luxusní kosmetika,prodýchávací techniky,akupunktura ucha,kosmetická akupunktura,akupresurní brýle, profesionální kosmetika, Ostrava">
+  <meta name="author" content="Karina Kotalová">
+  <title>Oáza Terapie</title>
+  <link rel="icon" href=assets/img/logo.png alt="Moje Terapie logo">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+</head>
+
+<body class="padding-none">
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="ml-5 mrn-container-70">
+
+      <div class="logo float-left">
+        <h2 class="text-light head"><a href="index.html"><span
+              class="text-light ml-container-90 text-uppercase">Oáza<img class="ml-2 mr-1 img-fluid"
+                src="assets/img/logofinish.png" alt="Logo Oázy Alterna">Alterna</span></a></h2>
+      </div>
+
+      <nav class="nav-menu float-right d-none d-lg-block">
+        <ul>
+          <li><a href="index.html">DOMŮ</a></li>
+          <li><a href="omne.html">O MNĚ</a></li>
+          <li><a href="terapie.html">TERAPIE</a>
+          </li>
+          <li><a href="kosmetika.html">KOSMETIKA</a>
+          </li>
+          <li><a href="blog.html">BLOG</a></li>
+          <li class=" mr-5"><a href="#contact">KONTAKT</a></li>
+        </ul>
+      </nav>
+      <!-- .nav-menu -->
+
+    </div>
+  </header>
+  <!-- ======= End Header ======= -->
+
+
+  <main id="main">
+
+    <!-- ======= Blog Section ======= -->
+    <section id="blog" class="blog">
+      <h2 class="head container text-left mb-5"><a href="index.html">DOMŮ</a><a href="#"></a> | MŮJ BLOG </h2>
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+
+          <div class="col-lg-8 entries">
+
+            <article class="entry">
+
+              <div class="entry-img">
+                <img src="assets/img/zijeme_instantne.jpg" alt="" class="img-fluid">
+              </div>
+
+              <h2>
+                <a href="blog-post-2.html">Žijeme instantně, né šťastně.</a>
+              </h2>
+
+              <div class="entry-meta">
+                <ul>
+                  <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="index.html">Oáza
+                      Alterna</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="#"><time
+                        datetime="2020-01-01">Duben 20, 2021</time></a></li>
+                </ul>
+              </div>
+
+              <div class="entry-content">
+                <p class="text-justify">
+                  Pomineme-li současnou pandemickou situaci, jsem přesvědčena, že v žádné jiné době, jsme se neměli lépe
+                  a bezpečněji, než právě teď? Nevíme,
+                  co přinášejí hrůzy války nebo náboženské konflikty, neprožíváme hladomor, zdravotní kliniky a
+                  ambulance oprašují naše bolístky na každém rohu,
+                  supermarkety praskají ve švech, logistické firmy rozvážejí nejrůznější zboží do všech koutů naší země,
+                  pitná voda je samozřejmostí, kupujeme
+                  drahá auta, létáme na dovolené k moři. Omrzel nás starý mobil? Nu co , koupíme nový…Hurá! Chvilka
+                  pomíjivého štěstí na míru. Ukojená touha našeho
+                  ega. To vše jen do okamžiku, než ze zatáčky vyjukne další splín a další nutkavá potřeba jej ukonejšit.
+                  Užíváme si vymožeností dnešní doby, které
+                  nám zpříjemňují život.
+                </p>
+                <div class="read-more">
+                  <a href="blog-post-2.html">Čtěte Více</a>
+                </div>
+              </div>
+
+            </article><!-- End blog entry -->
+
+            <article class="entry">
+
+              <div class="entry-img">
+                <img src="assets/img/terapie_tmou.jpg" alt="" class="img-fluid">
+              </div>
+
+              <h2>
+                <a href="blog-post-1.html">„NE“vážně o „T“mě.</a>
+              </h2>
+
+              <div class="entry-meta">
+                <ul>
+                  <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="index.html">Oáza
+                      Alterna</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="#"><time
+                        datetime="2020-01-01">Duben 20, 2021</time></a></li>
+                </ul>
+              </div>
+
+              <div class="entry-content">
+                <p class="text-justify">
+                  „Holky, tohle jednou dám“, oznámila jsem odhodlaně přítelkyním při procházce lázněmi na Čeladné a
+                  ukázala na malou
+                  chatku s tajemným nápisem „MÁ TMA“. Protože se zabývám uzdravováním a harmonizací lidských duší brala
+                  jsem tuto
+                  možnost jako novou výzvu a zároveň hlubší poznání sebe sama. To jsem ještě netušila, že několik týdnů
+                  na to se
+                  mé vyřčené přání splní do puntíku. S lehkou nadsázkou vám chci nabídnout „pohled“, dá-li se to tak
+                  nazvat, do
+                  zákulisí týdenního pobytu v nejtemnější temnotě mého dosavadního života. Jako blesk z čistého nebe
+                  zasáhla jednoho
+                  sobotního dne můj email zpráva o volném termínu pro terapii ve tmě. Ve čtvrtek nástup! Čekačky jsou
+                  totiž minimálně rok.
+                  Šrotování v hlavě začíná. Plný diář klientů, víkendový pobyt na Jižní Moravě, léto v plném proudu.
+                  Zavřít se do tmy,
+                  teď??? Kvantovala jsem pro dřívější termín. Že by tak dokonale? Vesmíre, díky no...
+                </p>
+                <div class="read-more">
+                  <a href="blog-post-1.html">Čtěte Více</a>
+                </div>
+              </div>
+
+            </article><!-- End blog entry -->
+
+            <div class="blog-pagination">
+              <ul class="justify-content-center">
+                <li><a href="#">1</a></li>
+                <!-- <li class="active"><a href="#">2</a></li>
+                <li><a href="#">3</a></li> -->
+              </ul>
+            </div>
+
+          </div><!-- End blog entries list -->
+
+          <div class="col-lg-4">
+
+            <div class="sidebar">
+
+              <h3 class="sidebar-title">Poslední příspěvky</h3>
+              <div class="sidebar-item recent-posts">
+                <div class="post-item clearfix">
+                  <img src="assets/img/zijeme_instantne.jpg" alt="">
+                  <h4><a href="blog-post-2.html">Žijeme instantně, né šťastně.</a></h4>
+                  <time datetime="2020-01-01">Duben 20, 2021</time>
+                </div>
+
+                <div class="post-item clearfix">
+                  <img src="assets/img/terapie_tmou.jpg" alt="">
+                  <h4><a href="blog-post-1.html">„NE“vážně o „T“mě.</a></h4>
+                  <time datetime="2020-01-01">Duben 20, 2021</time>
+                </div>
+                <!-- 
+                <div class="post-item clearfix">
+                  <img src="assets/img/about-img3.jpg" alt="">
+                  <h4><a href="blog-single.html">Id quia et et ut maxime similique occaecati ut</a></h4>
+                  <time datetime="2020-01-01">Jan 1, 2020</time>
+                </div>
+
+                <div class="post-item clearfix">
+                  <img src="assets/img/about-img4.jpg" alt="">
+                  <h4><a href="blog-single.html">Laborum corporis quo dara net para</a></h4>
+                  <time datetime="2020-01-01">Jan 1, 2020</time>
+                </div>
+
+                <div class="post-item clearfix">
+                  <img src="assets/img/about-img1.jpg" alt="">
+                  <h4><a href="blog-single.html">Et dolores corrupti quae illo quod dolor</a></h4>
+                  <time datetime="2020-01-01">Jan 1, 2020</time>
+                </div> -->
+
+              </div>
+              <!-- End sidebar recent posts-->
+
+              <!-- <h3 class="sidebar-title">Tags</h3>
+              <div class="sidebar-item tags">
+                <ul>
+                  <li><a href="#">App</a></li>
+                  <li><a href="#">IT</a></li>
+                  <li><a href="#">Business</a></li>
+                  <li><a href="#">Mac</a></li>
+                  <li><a href="#">Design</a></li>
+                  <li><a href="#">Office</a></li>
+                  <li><a href="#">Creative</a></li>
+                  <li><a href="#">Studio</a></li>
+                  <li><a href="#">Smart</a></li>
+                  <li><a href="#">Tips</a></li>
+                  <li><a href="#">Marketing</a></li>
+                </ul>
+              </div> -->
+              <!-- End sidebar tags-->
+
+            </div><!-- End sidebar -->
+
+          </div><!-- End blog sidebar -->
+
+        </div>
+
+      </div>
+    </section><!-- End Blog Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Contact Us Section ======= -->
+  <section id="contact" class="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="contact-about">
+            <h3>KONTAKTUJTE NÁS</h3>
+            <p>Objednejte se a změňte svůj život k lepšímu. Nabízíme různé druhy terapií, které
+              přizpůsobujeme vašim potřebám a možnostem.
+              Dopřát si u nás můžete také kosmetické ošetření pleti v podobě balíčků šitých na míru.
+              Neváhejte a žijte radostný život!</p>
+            <!-- <div class="social-links">
+             <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
+              <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
+              <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
+              <a href="#" class="linkedin"><i class="icofont-linkedin"></i></a>
+            </div> -->
+          </div>
+        </div>
+
+        <div class="col-lg-4">
+          <div class="info">
+
+            <div>
+              <i class="icofont-google-map"></i>
+              <p>Stodolní 15, 702 00 Ostrava</p>
+            </div>
+
+            <div>
+              <i class="icofont-envelope"></i>
+              <p> info@oazaalterna.cz</p>
+            </div>
+
+            <div>
+              <i class="icofont-phone"></i>
+              <p>+420 604 166 425 <br>Drahomíra Fikáčková<br> IČO: 70232407</p>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+  <!-- ======= End Contact Us Section ======= -->
+
+  <!-- ======= Map Section ======= -->
+  <!-- <section class="map">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.2219901290355!2d-74.00369368400567!3d40.71312937933185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a23e28c1191%3A0x49f75d3281df052a!2s150%20Park%20Row%2C%20New%20York%2C%20NY%2010007%2C%20USA!5e0!3m2!1sen!2sbg!4v1579767901424!5m2!1sen!2sbg" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+  </section> -->
+  <!-- End Map Section -->
+
+</main>
+<!-- ======= End Main ======= -->
+
+<!-- ======= Footer ======= -->
+<footer id="footer">
+  <div class="container">
+    <div class="copyright">
+      <p>2021 &copy; Oáza Alterna | Navrženo <a style="color: white;" href="http://www.kariko.cz/">KARIKO</a></p>
+    </div>
+  </div>
+</footer>
+<!-- ======= End Footer ======= -->
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/scripts.js"></script>
+
+</body>
+
+</html>
