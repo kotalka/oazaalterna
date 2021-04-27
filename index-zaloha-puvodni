@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+	<head>
+	  <meta charset="utf-8">
+	  <meta property="og:image" content="http://www.webofiko.cz/img/logo.png"><!-- Vložit oficiální web a logo, které by se mělo zobrazovat-->
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+	  <meta name="title" content="Moje Terapie - terapeutem sám sobě">
+	  <meta name="description"
+	    content="Staňte se svám vlastním terapeutem, nabízíme školení toho, jak pracovat sám se sebou, dále nabízíme kosmetické služby, akupunkturu, regresní terapie v okolí Ostravy.">
+	  <meta name="keywords" content="regresni terapie,terapeutem sám sobě,luxusní kosmetika,prodýchávací techniky,akupunktura ucha,kosmetická akupunktura,akupresurní brýle, profesionální kosmetika, Ostrava">
+	  <meta name="author" content="Karina Kotalová">
+	  <title>Mojeterapie</title>
+	  <link rel="icon" href=assets/img/logo.png alt="Moje Terapie logo">
+	  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	  <!-- <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet"> -->
+	  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+	  <!-- <link href="assets/vendor/venobox/venobox.css" rel="stylesheet"> -->
+	  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	  <link href="assets/css/style.css" rel="stylesheet">
+	</head>
+
+<body class="padding-none">
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="ml-5 mrn-container-70">
+
+      <div class="logo float-left">
+        <h2 class="text-light"><a href="index.html"><span class="text-light ml-container-90">Alterna<img class="ml-2 mr-2 img-fluid" src="assets/img/logofinish.png" alt="">Terapie</span></a></h2>
+      </div>
+
+      <nav class="nav-menu float-right d-none d-lg-block">
+        <ul>
+
+          <li><a href="omne.html">O MNĚ</a></li>
+         
+          <li><a href="#main">TERAPIE</a>
+          <!-- Do li výše by se muselo pro rozbalení přidat class drop down <ul>
+            <li><a href="#moje">MOJE TERAPIE</a></li>
+            <li><a href="#regresni">REGRESNÍ HLUBINNÁ TERAPIE</a></li>
+            <li><a href="#akupunktura">AKUPUNKTURA UCHA</a></li>
+          </ul> -->
+          </li>
+
+        <li><a href="#kosmeticka">KOSMETIKA</a>
+          <!--Do li výše by se muselo pro rozbalení přidat class drop down <ul>
+            <li><a href="#kosmeticka">KOSMETIKA ČÍNSKÉ MEDICÍNY</a>
+            </li>
+            <li><a href="#profesionalni">PROFESIONÁLNÍ KOSMETIKA</a>
+            </li>
+          </ul> -->
+        </li>
+
+          <!-- <li><a href="#team">WORKSHOPY</a></li>
+          <li><a href="#team">RITUÁLY</a></li> -->
+          <li class=" mr-5"><a href="#contact">KONTAKT</a></li>
+
+        </ul>
+      </nav>
+      <!-- .nav-menu -->
+
+    </div>
+  </header>
+  <!-- ======= End Header ======= -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div class="text-light hero-container">
+      <!-- <img style="max-width: 850px;" src="assets/img/TEXT.png" alt=""> -->
+      <!-- <h1 style="font-size: 68px;">Vítejte na Alternativní terapii</h1> -->
+      <!-- <p style="font-size: 23px;" class="mt-2 font-italic">Vítejte na Alternativní terapii</p> -->
+      <p style="font-size: 28px;" class="mt-2 font-italic">„Váš život máte ve svých rukou a záleží pouze na vás, jak se rozhodnete jej prožít“</p>
+      <p style="font-size: 28px;" class="mt-2 font-italic">„Nezkusíš, Nevíš!“</p>
+      <!-- <a href="#about" class="btn-get-started scrollto">Začněte nyní</a> -->
+    </div>
+  </section>
+  <!-- ======= End Hero Section ======= -->
+  
+  <!-- ======= Start Main ======= -->
+  <main id="main">
+
+    <!-- ======= About Us Section 1 ======= -->
+    <section id="moje" class="about">
+      <div class="p-5 ml-container-90 mr-container-90">
+        <div class="row">
+
+          <div class="col-lg-6 order-1 order-lg-2">
+            <img src="assets/img/about-img3.jpg" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 text-center">
+            <img class="mb-5" src="assets/img/logo.png" style="max-width:60px; margin-top:20px;" alt="">
+            <h1>MOJE TERAPIE</h1>
+            <p class="font-italic">
+              "Staňte se svým vlastním terapeutem"
+            </p>
+            <hr class="m-4">
+            <p class="text-justify">Jedinečnost této terapie spočívá v kombinaci několika alternativních 
+              ozdravných metod, které významně ovlivňují ozdravný proces organizmu a to jak na fyzické tak zejména 
+              psychické úrovni klienta. „Moje terapie“ nabízí spojení akupunktury, vědomého dýchání a relaxační techniky. 
+              Tato originální metoda „bourá“ hranice mezi realitou a naším nevědomím. „Moje terapie“ otevírá nekonečné 
+              možnosti sebepoznání, poskytuje otevřená svědectví o našich hluboce skrytých traumatech a blocích, které 
+              jsou „spolehlivými“ překážkami v osobním rozvoji a věčnou příčinou našich životních trápení v jakékoli formě 
+              (zdravotní potíže, stresy, úzkosti, syndrom vyhoření, ztráta smyslu života, vztahové problémy, fobie, strachy apod.).</p>
+            <a href="#portfolioModal1" class="btn portfolio-link" data-toggle="modal" style="color:#777; border-color: #777;">Dozvědět se více</a> 
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+    <!-- ======= End About Us Section 1 ======= -->
+    
+     <!-- ======= About Us Section 2 ======= -->
+     <section id="regresni" class="about section-bg">
+      <div class="p-5 ml-container-90 mr-container-90">
+
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2 text-center">
+            <img class="mb-5" src="assets/img/logo.png" style="max-width:60px; margin-top:20px;" alt="">
+            <h1>REGRESNÍ HLUBINNÁ TERAPIE</h1>
+            <p class="font-italic">
+              "Probuďte v sobě své vnitřní JÁ"
+            </p>
+            <hr class="m-4">
+            <p class="text-justify">Regresní terapie neboli regrese je účinná metoda, která pomáhá řešit vleklé zdravotní 
+              a psychické problémy a s tím spojené náročné životní situace. Cílem regrese je probudit naše nitro, 
+              naše vnitřní já, najít s jeho pomocí příčiny trápení a osvobodit se od nahromaděných traumat a bloků, 
+              které nám znepříjemňují a paralyzují život. Terapie je založená na využití tzv. vnitřní paměti, která 
+              obsahuje naprosto dokonalý a kompletní záznam celé naší existence. Jako „nahrávka“ všech příjemných 
+              ale také traumatizujících zážitků. Ty pak ovlivňují náš život na vědomé i na nevědomé úrovni. Proto si 
+              nedokážeme některé naše životní situace logicky vysvětlit a chápeme je jako náhody, dědičné vlivy, 
+              psychické onemocnění, geny apod.</p>
+            <a href="#portfolioModal2" class="btn portfolio-link" data-toggle="modal" style="color:#777; border-color: #777;">Dozvědět se více</a>
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1">
+            <img src="assets/img/about-img1.jpg" class="img-fluid" alt="">
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ======= End About Us Section 2 ======= -->
+
+        <!-- ======= About Us Section 3 ======= -->
+        <section id="akupunktura" class="about">
+          <div class="p-5 ml-container-90 mr-container-90">
+    
+            <div class="row">
+              <div class="col-lg-6 order-1 order-lg-2">
+                <img src="assets/img/jessica-flavia-6DnORP9gyIM-unsplash.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 text-center">
+                <img class="mb-5" src="assets/img/logo.png" style="max-width:60px; margin-top:20px;" alt="">
+                <h1>AKUPUNKTURA UCHA</h1>
+            <p class="font-italic">
+              "Zbavte se potíží pomocí stimulace důležitých bodů"
+            </p>
+            <hr class="m-4">
+            <p class="text-justify">Ušní akupunktura, neboli aurikuloterapie je diagnostické a terapeutické užití 
+              mikrosystému ušního boltce pro ozdravné účely. Více než 150 akupunkturních bodů na našem uchu 
+              mapuje celé tělo a jeho vnitřní orgány. Jsou obzvláště citlivé nebo bolestivé, pokud je v daném 
+              místě nějaký problém, jako jsou například - Bolesti pohybového aparátu, Nachlazení, Alergie, Migrény, 
+              Zažívací potíže, Úzkosti, aj. Tato metoda je známá také jako doplňková terapie při hubnutí nebo 
+              odvykání kouření. Ušní akupunktura stejně jako další alternativní terapie není samospasitelná a 
+              vyžaduje hlubší spolupráci a vnitřní disciplínu klienta (strava, pohyb, omezení stresových zátěží, 
+              spirituální práce na sobě, posilování imunitního systému aj.).</p>
+            <a href="#portfolioModal3" class="btn portfolio-link" data-toggle="modal" style="color:#777; border-color: #777;">Dozvědět se více</a>
+              </div>
+            </div>
+    
+          </div>
+        </section>
+        <!-- ======= End About Us Section 3 ======= -->
+
+         <!-- ======= About Us Section 4 ======= -->
+     <section id="kosmeticka" class="about section-bg">
+      <div class="p-5 ml-container-90 mr-container-90">
+
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2 text-center">
+            <img class="mb-5" src="assets/img/logo.png" style="max-width:60px; margin-top:20px;" alt="">
+            <h1>KOSMETICKÁ AKUPUNKTURA</h1>
+            <p class="font-italic">
+              "Vyzkoušejte kouzlo tradiční čínské medicíny"
+            </p>
+            <hr class="m-4">
+            <p class="text-justify">Tradiční čínská medicína a konkrétně akupunktura má na východě 
+              tisíciletou tradici. Novým trendem v západních zemích se stala tzv. Beauty akupunktura, 
+              kterou využívá řada známých celebrit po celém světě. Beauty akupunktura patří k takzvaným 
+              Jang Šeng Fa metodám - pěstění života. Výsledkem je prokrvená, svěží, odpočatá pleť, zvýšení 
+              svalového tonusu v obličeji.</p>
+            <a href="#portfolioModal4" class="btn portfolio-link" data-toggle="modal" style="color:#777; border-color: #777;">Dozvědět se více</a>
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1">
+            <img src="assets/img/photo-1598555763574-dca77e10427e.jpeg" class="img-fluid" alt="">
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ======= End About Us Section 4 ======= -->
+
+     <!-- ======= About Us Section 5 ======= -->
+     <section id="akupresurni" class="about">
+      <div class="p-5 ml-container-90 mr-container-90">
+
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2">
+            <img src="assets/img/oko.jpeg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 text-center">
+            <img class="mb-5" src="assets/img/logo.png" style="max-width:60px; margin-top:20px;" alt="">
+            <h1>AKUPRESURNÍ BRÝLE</h1>
+            <p class="font-italic">
+              "Odbourejte jemné vrásky, bolesti hlavy a psychické napětí"
+            </p>
+            <hr class="m-4">
+            <p class="text-justify">Speciální terapeutické brýle, které si umí poradit nejen s 
+              jemnými vráskami, ale také s bolestí hlavy, očním tlakem, psychickým napětím apod. 
+              Jednotlivé jehličky jsou střídavě pokryty kovy: měď, železo, zinek, stříbro a nikl. 
+              Přiložením a akupresurním tlakem na partie kolem očí vzniká galvanický proud, jehož 
+              kladné účinky pro pleť jsou nesporné.</p>
+            <a href="#portfolioModal5" class="btn portfolio-link" data-toggle="modal" style="color:#777; border-color: #777;">Dozvědět se více</a>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- ======= End About Us Section 5 ======= -->
+
+    <!-- ======= About Us Section 6 ======= -->
+    <section id="profesionalni" class="about section-bg">
+      <div class="p-5 ml-container-90 mr-container-90">
+
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2 text-center">
+            <img class="mb-5" src="assets/img/logo.png" style="max-width:60px; margin-top:20px;" alt="">
+            <h1>PROFESIONÁLNÍ KOSMETIKA</h1>
+        <p class="font-italic">
+          "Dbejte o zdraví a péči své pleti"
+        </p>
+            <hr class="m-4">
+            <p class="text-justify">V životě není nic pouze černé nebo bílé. To se týká i stavu naší pleti. 
+              Její kvalita je ovlivněna řadou vnějších i vnitřních faktorů. Stres, pracovní prostředí, toxiny, 
+              chronické onemocnění, psychická vyčerpanost, hormonální léčba, dlouhodobá medikace atd.  Jsem 
+              propagátorkou propojení klasického kosmetického ošetření pleti v kombinaci s dalšími ozdravnými 
+              technikami, např. akupunktura, fytoterapie apod. Nabízím vám profesionální péči v krásných 
+              relaxačních prostorách. Odpočatá a ošetřená bude nejen vaše pleť, ale také vaše duše.</p>
+            <a href="#portfolioModal6" class="btn portfolio-link" data-toggle="modal" style="color:#777; border-color: #777;">Dozvědět se více</a>
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1">
+            <img src="assets/img/about-img2.jpg" class="img-fluid" alt="">
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ======= End About Us Section 4 ======= -->
+
+    <!-- ======= Start Modal section ======= -->
+    <!-- Modal 1-->
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+          <div class="modal-content">
+              <div class="close-modal" data-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+              <div class="">
+                  <div class="row justify-content-center">
+                      <div class="col-lg-10">
+                          <div class="modal-body">
+                              <!-- Project Details Go Here-->
+                              <img class="mb-4" src="assets/img/logo.png" style="max-width:60px; margin-top:70px;" alt="">
+                              <h1 class="text-uppercase">Moje Terapie</h1>
+                              <p class="font-italic">
+                                "Staň se svým vlastním terapeutem" 
+                              </p>
+                              <hr class="m-4">
+                              <h2 class="item-intro text-justify">Úvod</h2>
+                              <!-- <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/04-full.jpg" alt="" /> -->
+                              <p class="text-justify mt-0">Jedinečnost této terapie spočívá v kombinaci několika alternativních 
+                                ozdravných metod, které významně ovlivňují ozdravný proces organizmu a to jak na fyzické tak zejména 
+                                psychické úrovni klienta. „Moje terapie“ nabízí spojení akupunktury, vědomého dýchání a relaxační techniky. 
+                                Tato originální metoda „bourá“ hranice mezi realitou a naším nevědomím. „Moje terapie“ otevírá nekonečné 
+                                možnosti sebepoznání, poskytuje otevřená svědectví o našich hluboce skrytých traumatech a blocích, které 
+                                jsou „spolehlivými“ překážkami v osobním rozvoji a věčnou příčinou našich životních trápení v jakékoli formě 
+                                (zdravotní potíže, stresy, úzkosti, syndrom vyhoření, ztráta smyslu života, vztahové problémy, fobie, strachy apod.). 
+                                Díky metodě „Moje terapie“ může každý, kdo neví, jak dál…, dostat jedinečnou příležitost být sám sobě terapeutem 
+                                a nejlepším koučem k dosažení svého osobního štěstí. Pouhé tři hodiny se mohou stát zásadním mezníkem v dalším životě.
+                                  </p>
+                                  <h2 class="item-intro mt-5 text-justify">Průběh</h2>
+                                  <p class="text-justify">1. fáze</p>
+                                  <p class="text-justify">První „přípravná“ fáze je zaměřena na rozpohybování životní energie (čchi) v našem těle s využitím energetické 
+                                    síly akupunkturních jehliček. Pomocí nich je velmi jemně uvolněna stagnace a bloky v našich meridiánech se současným 
+                                    zaměřením mysli na sebe samotného, uvolnění psychiky, navození pocitu „těžkého těla“ a příjemného pocitu tepla.
+                                    Akupunktury se není třeba vůbec obávat, nejedná se o bolestivou aplikaci.
+                                      </p>
+                                      <p class="text-justify">2. fáze</p>
+                                      <p class="text-justify">Druhá „aktivní“ fáze spočívá v samotném vědomém dýchání, které je rozděleno do několika 
+                                        aktivních a pasivních bloků. Celý průběh je doprovázen evokující hudbou. Tato část je prožitkově zásadní, sebepoznávací.
+                                        Z vědomého racionálního stavu se pomalu dostáváme hlouběji do svého podvědomí, nevědomí, vyššího vědomí. Jedná se o bezpečnou 
+                                        techniku, kdy si organizmus intuitivně reguluje intenzitu a rytmus dýchání a „vnoření“ se do svého nitra ke svému pravému „já“.
+                                         V této fázi jsme sami se sebou v ryzí, čisté podobě. Jsme připraveni podívat se do očí naší podstatě, porozumět sami sobě, 
+                                         pochopit příčiny našich bolestí, trápení, fobií, strachů, otevřít se konfrontaci s realitou každodenního života.
+                                          </p>
+                                      <p class="text-justify">3. fáze</p>
+                                      <p class="text-justify">Třetí „relaxační“ fáze spočívá v uklidnění mysli i těla. Příjemná hudba nás dostává zpět do reality, 
+                                        do přítomnosti. Uvědomujeme si své zážitky z terapie. Rekapitulujeme své pocity a s pomocí vzájemného sdílení s terapeutem 
+                                        případně ostatními účastníky hledáme souvislosti a řešení našeho problému.
+                                          </p>
+                                      <h2 class="item-intro mt-5 text-justify">Doporučení</h2>
+                                      <p class="text-justify mt-0">K úspěšnému průběhu terapie je vhodné pohodlné volné oblečení, bavlněný šátek na zakrytí očí, 
+                                        osuška, polštářek. Před terapií minimálně tři dny nepít alkohol, neužívat žádné další návykové látky. V den terapie doporučuji 
+                                        pouze lehké jídlo. Časová náročnost je tři hodiny.
+                                          </p>
+                                          <h2 class="item-intro mt-5 text-justify">Cena</h2>
+                                      <p class="text-justify mt-0">Individuální terapie: 2 500,-Kč / 1 osoba, 1 sezení<br>
+                                        Párová terapie: 2 100,-Kč / 1 osoba, 1 sezení<br>
+                                        Skupina 3-5 osob: 1 500,-Kč / 1 osoba, 1 sezení
+                                          </p>
+
+                              <button class="btn mt-3 mb-4" style="color:#777; border-color:#777;" data-dismiss="modal" type="button">
+                                  <i class="fas"></i>Zavřít Terapii
+                              </button>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+
+    <!-- Modal 2-->
+    <div class="portfolio-modal modal fade modal-padding" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+          <div class="modal-content">
+              <div class="close-modal" data-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+              <div class="">
+                  <div class="row justify-content-center">
+                      <div class="col-lg-10">
+                          <div class="modal-body">
+                              <!-- Project Details Go Here-->
+                              <img class="mb-4" src="assets/img/logo.png" style="max-width:60px; margin-top:70px;" alt="">
+                              <h1 class="text-uppercase">REGRESNÍ HLUBINNÁ TERAPIE</h1>
+                              <p class="font-italic">
+                                "Probuďte v sobě své vnitřní JÁ"
+                              </p>
+                              <hr class="m-4">
+                              <h2 class="item-intro text-justify">Úvod</h2>
+                              <!-- <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/04-full.jpg" alt="" /> -->
+                              <p class="text-justify mt-0">Regresní terapie neboli regrese je účinná metoda, která pomáhá řešit 
+                                vleklé zdravotní a psychické problémy a s tím spojené náročné životní situace. Cílem regrese je 
+                                probudit naše nitro, naše vnitřní já, najít s jeho pomocí příčiny trápení a osvobodit se od 
+                                nahromaděných traumat a bloků, které nám znepříjemňují a paralyzují život.
+                              </p>
+                                <p class="text-justify mt-0">Terapie je založená na využití tzv. vnitřní paměti, která obsahuje 
+                                naprosto dokonalý a kompletní záznam celé naší existence. Jako „nahrávka“ všech příjemných ale také 
+                                traumatizujících zážitků. Ty pak ovlivňují náš život na vědomé i na nevědomé úrovni. Proto si 
+                                nedokážeme některé naše životní situace logicky vysvětlit a chápeme je jako náhody, dědičné vlivy, 
+                                psychické onemocnění, geny apod.
+                                  </p>
+                                  <p class="item-intro text-muted mt-5 text-justify"><strong>Terapie může pomoci při problémech:</strong></p>
+                                  <p class="text-justify">1. psychologického rázu</p>
+                                  <p class="text-justify">Partnerské, rodinné nebo pracovní krize, úzkosti, deprese, fobie, staré 
+                                    křivdy prožité např. v dětství, pocity viny, tréma, výkyvy nálad, syndrom vyhoření, trauma ze 
+                                    ztráty partnera, smrti blízké osoby, sexuálního zneužívání apod.
+                                      </p>
+                                      <p class="text-justify">2. zdravotního rázu</p>
+                                      <p class="text-justify">Při oslabení oslabené imunitě, např. alergie, časté virózy, migrény, 
+                                        bolesti pohybového aparátu, zažívací potíže, problémy s otěhotněním apod
+                                          </p>
+
+                                  <h2 class="item-intro mt-5 text-justify">Průběh</h2>
+                                  <p class="text-justify">Regrese trvá většinou dvě až tři hodiny. Záleží na intenzitě potíží, dále 
+                                    pak schopností a chutí klienta komunikovat se sebou samým a s terapeutem. Celá terapie probíhá 
+                                    za plného vědomí – nejedná se o hypnózu! Klient si je být plně vědom toho, co prožívá a co se 
+                                    právě odehrává. S pomocí profesionálního vedení terapeuta se snaží správně pochopit prožitou emoci, 
+                                    vyčistit traumatizující zážitek a uvolnit tělo na fyzické i psychické úrovni. Počet sezení je 
+                                    individuální a záleží na mnoha faktorech.
+                                      </p>
+                                      <h2 class="item-intro mt-5 text-justify">Doporučení</h2>
+                                      <p class="text-justify mt-0">Před terapií je doporučeno pouze lehké jídlo, dostatečné 
+                                        množství vody nebo bylinného čaje. Neužívat minimálně dva dny před regresí alkohol, 
+                                        či jiné návykové látky. Po absolvování je doporučován půldenní klidový režim, odpočinek, 
+                                        relaxace, procházka v přírodě apod.
+                                          </p>
+                                          <h2 class="item-intro mt-5 text-justify">Cena</h2>
+                                      <p class="text-justify mt-0">700,-Kč / 1 hodina
+                                          </p>
+
+                              <button class="btn mt-3 mb-4" style="color:#777; border-color:#777;" data-dismiss="modal" type="button">
+                                  <i class="fas"></i>Zavřít Terapii
+                              </button>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+
+ <!-- Modal 3-->
+    <div class="portfolio-modal modal fade modal-padding" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+          <div class="modal-content">
+              <div class="close-modal" data-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+              <div class="">
+                  <div class="row justify-content-center">
+                      <div class="col-lg-10">
+                          <div class="modal-body">
+                              <!-- Project Details Go Here-->
+                              <img class="mb-4" src="assets/img/logo.png" style="max-width:60px; margin-top:70px;" alt="">
+                              <h1 class="text-uppercase">Akupunktura Ucha</h1>
+                              <p class="font-italic">
+                                "Zbavte se potíží pomocí stimulace důležitých bodů" 
+                              </p>
+                              <hr class="m-4">
+                              <h2 class="item-intro text-justify">Úvod</h2>
+                              <!-- <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/04-full.jpg" alt="" /> -->
+                              <p class="text-justify mt-0">Ušní akupunktura, neboli aurikuloterapie je diagnostické a terapeutické užití mikrosystému ušního 
+                                boltce pro ozdravné účely. Více než 150 akupunkturních bodů na našem uchu mapuje celé tělo a jeho 
+                                vnitřní orgány. Jsou obzvláště citlivé, nebo bolestivé, pokud je v daném místě nějaký problém, jako 
+                                jsou například - Bolesti pohybového aparátu, Nachlazení, Alergie, Migrény, Zažívací potíže, Úzkosti, 
+                                aj. Tato metoda je známá také jako doplňková terapie při hubnutí, nebo odvykání kouření. Ušní akupunktura 
+                                stejně jako další alternativní terapie není samospasitelná a vyžaduje hlubší spolupráci a vnitřní 
+                                disciplínu klienta (strava, pohyb, omezení stresových zátěží, spirituální práce na sobě, posilování 
+                                imunitního systému aj.).
+                                  </p>
+                                  <h2 class="item-intro mt-5 text-justify">Průběh</h2>
+                                  <p class="text-justify">Při správném „napíchnutí“ se často setkáváme s tzv. “Vteřinovým fenoménem”, 
+                                    když při informovaném zásahu odpovídajících bodů třeba jen pár jehlami, nastává okamžitá úleva 
+                                    pacienta, hlásí se okamžité zlepšení, ustoupení až úplné zmizení bolesti. Při takovém zásahu bývá 
+                                    dlouhotrvající léčebný efekt a problém se i několik let nemusí objevit.
+                                      </p>
+                                      <p class="text-justify">V mé praxi používám především jednorázové intradermální jehly tzv. 
+                                        trvalky, které jsou aplikovány na jeden týden. Klient odchází s aplikací jehliček v uchu, 
+                                        může běžně vykonávat veškeré činnosti včetně hygienických návyků.
+                                        Jedna terapie trvá cca půl hodiny. Počet sezení závisí na potížích klienta.
+                                          </p>
+                                      <h2 class="item-intro mt-5 text-justify">Doporučení</h2>
+                                      <p class="text-justify mt-0">Doporučuji 5 až 10 sezení v týdenních intervalech.
+                                          </p>
+                                          <h2 class="item-intro mt-5 text-justify">Cena</h2>
+                                      <p class="text-justify mt-0">300,- Kč / 1 aplikace
+                                          </p>
+
+                              <button class="btn mt-3 mb-4" style="color:#777; border-color:#777;" data-dismiss="modal" type="button">
+                                  <i class="fas"></i>Zavřít Terapii
+                              </button>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+
+   <!-- Modal 4-->
+   <div class="portfolio-modal modal fade modal-padding" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+            <div class="">
+                <div class="row justify-content-center">
+                    <div class="col-lg-10">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here-->
+                            <img class="mb-4" src="assets/img/logo.png" style="max-width:60px; margin-top:70px;" alt="">
+                            <h1 class="text-uppercase">Kosmetická akupunktura</h1>
+                            <p class="font-italic">
+                              "Vyzkoušejte kouzlo tradiční čínské medicíny" 
+                            </p>
+                            <hr class="m-4">
+                            <h2 class="item-intro text-justify">Úvod</h2>
+                            <!-- <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/04-full.jpg" alt="" /> -->
+                            <p class="text-justify mt-0">Tradiční čínská medicína a konkrétně akupunktura má na východě 
+                              tisíciletou tradici. Novým trendem v západních zemích se stala tzv. Beauty akupunktura, 
+                              kterou využívá řada známých celebrit po celém světě. Beauty akupunktura patří k takzvaným 
+                              Jang Šeng Fa metodám - pěstění života. Výsledkem je prokrvená, svěží, odpočatá pleť, zvýšení 
+                              svalového tonusu v obličeji.
+                                </p>
+                                <h2 class="item-intro mt-5 text-justify">Průběh</h2>
+                                <p class="text-justify">Terapie funguje na bázi vpichování tenkých intradermálních jehliček 
+                                  přímo do vrásek. Pomocí tohoto speciálního ošetření pleti je možné dosáhnout vysoké redukce 
+                                  jemných i hlubších vrásek bez použití invazivních omlazovacích technik, jako např. aplikace 
+                                  botoxu, plazmy, kyseliny hyaluronové apod. Pleť již po první aplikaci začíná sama intenzivně 
+                                  produkovat elastin, kolagen a další důležité látky k regeneraci a výživě pokožky. V rámci 
+                                  jedné celostní kůry je doporučeno pět až deset ošetření jednou za týden nebo deset dnů podle 
+                                  posouzení terapeuta. Po ošetření bývá pleť několik hodin lehce zarudlá, nateklá, mohou se 
+                                  objevit drobné modřinky. Doba trvání se pohybuje mezi hodinou a půl až dvěma hodinami - 
+                                  dle náročnosti ošetření.
+                                    </p>
+                                    <h2 class="item-intro mt-5 text-justify">Doporučení</h2>
+                                    <p class="text-justify mt-0">Tato metoda není vhodná pro osoby, kteří užívají léky na ředění 
+                                      krve a těhotné ženy. Po samotném zákroku je doporučeno zapracování kyseliny hyaluronové a 
+                                      zklidnění pleti přístrojem Domiderm.
+                                        </p>
+                                        <h2 class="item-intro mt-5 text-justify">Cena</h2>
+                                    <p class="text-justify mt-0">Dle náročnosti zákroku 1.000 až 2.000,- Kč / 1 zákrok
+                                        </p>
+
+                            <button class="btn mt-3 mb-4" style="color:#777; border-color:#777;" data-dismiss="modal" type="button">
+                                <i class="fas"></i>Zavřít Terapii
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+ <!-- Modal 5-->
+ <div class="portfolio-modal modal fade modal-padding" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+      <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+          <div class="">
+              <div class="row justify-content-center">
+                  <div class="col-lg-10">
+                      <div class="modal-body">
+                          <!-- Project Details Go Here-->
+                          <img class="mb-4" src="assets/img/logo.png" style="max-width:60px; margin-top:70px;" alt="">
+                          <h1 class="text-uppercase">Akupresurní brýle</h1>
+                          <p class="font-italic">
+                            "Odbourejte jemné vrásky, bolesti hlavy a psychické napětí"
+                          </p>
+                          <hr class="m-4">
+                          <h2 class="item-intro text-justify">Úvod</h2>
+                          <!-- <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/04-full.jpg" alt="" /> -->
+                          <p class="text-justify mt-0">Speciální terapeutické brýle, které si umí poradit nejen s jemnými vráskami, 
+                            ale také s bolestí hlavy, očním tlakem, psychickým napětím apod. Jednotlivé jehličky jsou střídavě 
+                            pokryty kovy:- měď, železo, zinek, stříbro a nikl. Přiložením a akupresurním tlakem na partie kolem 
+                            očí vzniká galvanický proud, jehož kladné účinky pro pleť jsou nesporné.
+                              </p>
+                              <h2 class="item-intro mt-5 text-justify">Průběh</h2>
+                              <p class="text-justify">Během působení aplikátoru dochází k uvolnění svalů oční bulvy, uvolnění 
+                                napětí unavených očí, zlepšení regulace očních svalů a zrakového nervu. Dále pak zvýšení 
+                                přísunu kyslíku do tkání oka a mozku, ke zlepšení průtoku krve v cévách zrakových orgánů a 
+                                ke zmenšení otoku kolem očí. Různě intenzivní přitisknutí aplikátoru na akupunkturní body 
+                                kolem očí nebo spánků přispívá k relaxaci a k procvičení očních svalů, napomáhá zmírnit stres 
+                                a nervové napětí. Současným působením na zátylek hlavy se podporuje prokrvení mozku a zmírňují 
+                                se spazmy cév v oblasti hlavy.
+                                  </p>
+                                  <h2 class="item-intro mt-5 text-justify">Doporučení</h2>
+                                  <p class="text-justify mt-0">Akupresurní brýle doporučuji využít jako nedílnou součást 
+                                    komplexního kosmetického ošetření pleti. Nebo zkombinovat s dalšími terapiemi.
+                                      </p>
+                                      <h2 class="item-intro mt-5 text-justify">Cena</h2>
+                                  <p class="text-justify mt-0">V rámci terapie nebo kosmetiky 150,- Kč
+                                      </p>
+
+                          <button class="btn mt-3 mb-4" style="color:#777; border-color:#777;" data-dismiss="modal" type="button">
+                              <i class="fas"></i>Zavřít Terapii
+                          </button>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+    <!-- ======= Contact Us Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8">
+            <div class="contact-about">
+              <h3>KONTAKTUJTE NÁS</h3>
+              <p>Cras fermentum odio eu feugiat. Justo eget magna fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
+              <div class="social-links">
+                <!-- <a href="#" class="twitter"><i class="icofont-twitter"></i></a> -->
+                <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
+                <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
+                <a href="#" class="linkedin"><i class="icofont-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4">
+            <div class="info">
+
+              <div>
+                <i class="icofont-google-map"></i>
+                <p>Stodolní 15<br>702 00 Ostrava</p>
+              </div>
+
+              <div>
+                <i class="icofont-envelope"></i>
+                <p>fikackovad@seznam.cz</p>
+              </div>
+
+              <div>
+                <i class="icofont-phone"></i>
+                <p>+420 604 166 425</p>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+    <!-- ======= End Contact Us Section ======= -->
+
+    <!-- ======= Map Section ======= -->
+    <!-- <section class="map">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.2219901290355!2d-74.00369368400567!3d40.71312937933185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a23e28c1191%3A0x49f75d3281df052a!2s150%20Park%20Row%2C%20New%20York%2C%20NY%2010007%2C%20USA!5e0!3m2!1sen!2sbg!4v1579767901424!5m2!1sen!2sbg" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+    </section> -->
+    <!-- End Map Section -->
+
+  </main>
+  <!-- ======= End Main ======= -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <div class="copyright">
+        2021 &copy; Copyright <strong><span>Alternaterapie</span></strong>
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-one-page-bootstrap-template-amoeba/ -->
+      </div>
+    </div>
+  </footer>
+  <!-- ======= End Footer ======= -->
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/scripts.js"></script>
+
+</body>
+
+</html>
