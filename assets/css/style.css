@@ -599,7 +599,7 @@ section {
 }
 
 .services .title a {
-  color: #343a40;
+  /* color: #343a40; */
   transition: 0.3s;
 }
 
@@ -692,7 +692,7 @@ section {
 }
 
 .faq .faq-list a.collapsed {
-  color: #343a40;
+  /* color: #343a40; */
 }
 
 .faq .faq-list a.collapsed:hover {
